@@ -1,4 +1,4 @@
-package Singletion;
+package org.example.Singletion;
 
 public class Singleton {
     private static volatile Singleton instance;
