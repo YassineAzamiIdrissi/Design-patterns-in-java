@@ -1,5 +1,6 @@
 package org.example.FactoryMethod;
 
+// Concrete Creator : GarageCar...
 public class GarageCar extends Garage {
 
     @Override

@@ -1,5 +1,6 @@
 package org.example.FactoryMethod;
 
+// Creator
 public abstract class Garage {
     int numWorkers;
     int dailyWorkHours;

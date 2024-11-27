@@ -1,5 +1,7 @@
 package org.example.FactoryMethod;
 
+
+// ConcreteProduct : Car...
 public class Car implements Vehicle {
     boolean damaged = true;
 
