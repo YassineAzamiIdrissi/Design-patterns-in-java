@@ -2,6 +2,8 @@ package org.example.Builder;
 
 public class Main {
     public static void main(String[] args) {
+        Builder b = new PersonBuilder();
+
         PersonBuilder personBuilder = new PersonBuilder();
         PersonCardIdBuilder cardBuilder = new PersonCardIdBuilder();
         Person person1 = personBuilder.id(1).
